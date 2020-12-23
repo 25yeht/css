@@ -1,0 +1,25 @@
+#header {
+  text-align: center
+  float: top
+  font-family: helvetica, arial, sans-serif;
+  margin: 0px
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background: rgb(69, 20, 92);
+}
+
+#header-span {
+  text-align: center
+  font-family: helvetica, arial, sans-serif;
+  margin: 0px
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background: rgb(23, 112, 255);
+  color: white;
+}
+
+body {
+    text-align: center
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 4px;
+}
